@@ -3,9 +3,10 @@
 ## Group Members
 | Name | Matric Number |
 |------|---------------|
-| [Your Name] | [Your Matric] |
-| [Member 2] | [Matric 2] |
-| [Member 3] | [Matric 3] |
+| [NIK ABDUL AQMAL BIN ZUNAIDI] | [2240215] |
+| [MUHAMMAD AMIRRUDIN BIN RANI] | [2240205] |
+| [PKDT MUHAMMAD ADAM HARRIS BIN MOHD FAIZUL] | [2240202] |
+| [MOHD HAKIM BIN MOHD NOORAFIZAM] | [2240213] |
 
 ## Project Description
 A web-based Linear Programming system that helps students find the optimal meal combination within their budget and calorie goals. The system maximizes protein intake subject to budget and calorie constraints.
