@@ -56,3 +56,10 @@ MAXIMIZE: 25x₁ + 20x₂ + 7x₃ + 12x₄ + 10x₅ + 4x₆ + 3x₇
 7. php artisan migrate
 8. php artisan db:seed --class=FoodSeeder
 9. php artisan serve
+
+### for admin user that we have already create
+username : AdminAinur@example.com
+password : AdminAinur02$
+
+### student login example or you can create 
+your own registeration
