@@ -6,7 +6,7 @@ use App\Models\Student;
 use App\Services\LPSolverService;
 use Illuminate\Http\Request;
 
-//hello this is me 
+//hello this is me nicky
 class DietOptimizerController extends Controller
 {
     //
